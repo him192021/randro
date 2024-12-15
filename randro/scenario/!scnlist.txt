@@ -1,0 +1,50 @@
+シナリオ一覧
+#
+デバッグ:
+	KAGEX 拡張レイヤ,layer.ks
+	ワールド拡張:キャラクタ,char.ks
+	ワールド拡張:レイヤ,envlayer.ks
+	ワールド拡張:トランジション,transition.ks
+	ワールド拡張:拡張アクション,action.ks
+	表情テスト.ks
+	ゲームクリアフラグON.ks
+	鑑賞モード一時全開放.ks
+
+共通:
+	B101.txt.ks
+	B102.txt.ks
+	B103.txt.ks
+	B104.txt.ks
+	B105.txt.ks
+	B106.txt.ks
+	B107.txt.ks
+	B108.txt.ks
+	B109.txt.ks
+	B110.txt.ks
+	A201.txt.ks
+	A202.txt.ks
+	A203.txt.ks
+	A204.txt.ks
+	A205.txt.ks
+	A206.txt.ks
+	A207.txt.ks
+	A208.txt.ks
+	A209.txt.ks
+	A101.txt.ks
+	A102.txt.ks
+	A103.txt.ks
+	A104.txt.ks
+	A105.txt.ks
+	A106.txt.ks
+	A107.txt.ks
+	A108.txt.ks
+	A109.txt.ks
+	K001.txt.ks
+	K002.txt.ks
+	K003.txt.ks
+	K004.txt.ks
+	K005.txt.ks
+	K006.txt.ks
+	K007.txt.ks
+	K008.txt.ks
+	K009.txt.ks
